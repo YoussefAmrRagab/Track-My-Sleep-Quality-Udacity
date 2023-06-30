@@ -30,7 +30,7 @@ import com.example.android.trackmysleepquality.database.SleepDatabase
 import com.example.android.trackmysleepquality.databinding.FragmentSleepQualityBinding
 
 /**
- * Fragment that displays a list of clickable icons,
+ * Fragment that displays a data of clickable icons,
  * each representing a sleep quality rating.
  * Once the user taps an icon, the quality is set in the current sleepNight
  * and the database is updated.
